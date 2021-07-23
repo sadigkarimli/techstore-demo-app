@@ -39,8 +39,6 @@ public class UserRepositoryTest {
         });
     }
 
-
-
     @After
     public void terminate() {
         System.out.println("user repository test terminated");
